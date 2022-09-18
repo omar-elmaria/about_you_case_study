@@ -5,7 +5,7 @@ This repo contains a full analysis of the sales, promo, and pricing trends of fa
 German fashion online retailer based in Hamburg with an **annual revenue just shy of a billion** and operations in 24 countries. The insights of this case study are neatly
 presented in this [slide deck](https://docs.google.com/presentation/d/1lUUm42_86o2Zgdu4VqKDmmXWKSfQuvIHZgyQ36Mt5wc/edit?usp=sharing)
 
-# The Objective
+# The Objective of the Project
 This was an open-ended project where the goal was to analyze this [dataset](https://drive.google.com/file/d/1-4hp4YB6waePDE9IDIKu_gy7i6_rQ12m/view?usp=sharing) and 
 provide an exploratory data analysis EDA using **Python**. Some of the questions that I attempted to answer were:
 - What is the **structure of the dataset**? What does the data in convey and what is the **granularity of the table**?
