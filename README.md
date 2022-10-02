@@ -34,7 +34,7 @@ provide an exploratory data analysis EDA using **Python**. Some of the questions
 - **Clone the repo** using this command in your terminal
 ```git clone https://github.com/omar-elmaria/about_you_case_study.git```
 - **Create a virtual environment** by running this command ```python -m venv venv_about_you_challenge```
-- **Activate the virtual environment** by typing this ```source venv_about_you_challenge/bin/activate``` if you are on Mac/Linux or ```source venv_saas_challenge/Scripts/activate``` if you are on Windows. You might need to replace the forwardslashes with a backslash if you are on Windows
+- **Activate the virtual environment** by typing this ```source venv_about_you_challenge/bin/activate``` if you are on Mac/Linux or ```source venv_about_you_challenge/Scripts/activate``` if you are on Windows. You might need to replace the forwardslashes with a backslash if you are on Windows
 - **Double-check that you are using the correct Python path** by typing ```which python``` and clicking enter (```which python3 on Mac/Linux```). It should point to the Python executable in the virtual environment you just created
 - ```Ctrl-Shift-P``` to **view the command palette in VSCode** --> ```Python: Select Interpreter``` --> **Browse to the Python executable in your virtual environment** so that the Jupyter notebook uses the correct Python interpreter
 - Run this command in the terminal to **install the required dependencies** ```pip install -r requirements.txt```
